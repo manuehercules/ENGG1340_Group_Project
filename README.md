@@ -9,6 +9,8 @@ https://drive.google.com/file/d/1AZEVwmbD5yZh1cpJSu5MdghSCYKsxhBY/view
   
   - NIP, Hok Leung (UID: 3035957240; GitHub: @niphl)
 
+  - Man Ue Hercules (UID: 3036216887; GitHub: @manuehercules)
+
 
 2. Description of the project
 
